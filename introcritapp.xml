@@ -1,2 +1,424 @@
 <?xml version="1.0" encoding="UTF-8"?>
+?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<?xml-model href="../schemas/tei_all.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns:html="http://www.w3.org/1999/xhtml" 
+    xmlns="http://www.tei-c.org/ns/1.0" >
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- put title here --></title>
+                <author>
+                    <persName><!-- author's name here --></persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <ab><!-- copyright or copyleft information here --></ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <!-- source information here; better yet, use a <biblStruct> instead -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+            <!-- main document goes here, possibly divided into <div>s -->
+            <p>
+ 
+The colourful details of Charles Dickens's evocation of Christmas
+reside not only in his books but have entered the popular imagination and influenced the manner in which many Western nations celebrate Christmas to this day. Dickens’s vision of Christmas conjures
+up joyful family gatherings filled with the pleasures of the hearth:
+abundant food and drink, dancing and merry games, and generosity
+of spirit. His vision of this feast day, however, is a secularization of
+one of the most sacred days in the Christian calendar and has its
+roots in antiquity. During the Middle Ages Christianity appropriated
+many of the pagan rituals as part of its celebration of the birth of
+Christ. Both the ancient Roman ritual of Saturnalia -in honor of
+the god of agriculture - and the Germanic festival of Yule - in
+honor of the god Thor - enriched the customs and traditions of the
+Christian feast days. Christmas in medieval times was a twelve-day
+festival that took place in the household of a local lord. The burning
+to the Yule log, playing traditional games, and enjoying quantities of
+food and drink were all part of these celebratory days. By the middle
+of the seventeenth century, however, the pageantries of Christmas-
+tide were quelled under the influence of the Puritans. Until the
+beginning of the nineteenth century the celebration of Christmas
+seems to have been little observed. Writing in 1837, Thomas Hervey
+laments the passing of the Christmas traditions: "The revels of merry
+England are fast subsiding 1nto silence, and her many customs wearing gradually away. 
+He traces the neglect of these customs to the urbanization of England: "In fact, that social change which has enlarged and filled the towns at the expense of the country, which
+has annihilated the yeomanry of England, and drawn the estated
+gentleman from the shelter of his ancestral oaks, to live upon their
+produce in the haunts of dissipation, has been, in itself, the circumstance most unfavorable to the existence of many of [these customs.
+which delight in bye-ways and sheltered places, which had their
+appropriate homes in the old manor house or the baronial hall.
 
+It was not until the middle of the nineteenth century that the revival of Christmas traditions began. William Sandys's Selection Of Christmas Carols, Ancient and Modern (1833) and Thomas K. Hervey's The Book of Christmas (1837), a detailed account of Christmas traditions, aroused the nostalgia of urban Victorians. Shortly thereafter,  Prince Albert introduced to England the German custom of decorating the Christmas tree; the singing of Christmas carols, which had all but disappeared at the turn of the century, began to thrive again; and the first Christmas card, which appeared in 1843, inspired a commercial tradition in England and America. It was the Christmas stories of Dickens, however, especially his 1843 masterpiece A Christmas Carol, that resurrected ancient traditions and celebrated anew the earthy appetites that define human life. Amid his scenes of genial family gatherings, Dickens expresses a child-like abandon as the ordinary business of life gives way to eating plum puddings, drinking
+Space wine, playing parlor games, dancing, and telling ghost stories
+at the fireside. He never allows the reader to forget, however, that the
+warm, colorful rooms to his Christmas merry-makers have a fragility
+and elusiveness about them: the wolfish twins of ignorance and
+Want, as well as the specter of death, reside close by. A Christmas
+Carol 1s, 1ndeed, a ghost story, a paradoxical mixture of light and darkness, joy and despair, warmth and cold, life and death.
+
+Dickens’ idea of Christmas may seem a far cry from the ancient
+rituals of the Saturnalia, Dut there are some interesting connections
+between the two. The period of what i1S popularly called the winter
+solstice has long been recognized as a period of great rejoicing. As
+the daylight hours gradually diminished after the summer solstice,
+leading to the longest night of the year in late December, people
+began to celebrate the expected return to longer days on or about
+December 22. The Roman daturnalla, Which occurred at this time,
+was a season of joyful celebration. Friends teased with one another.
+wars were not declared, and executions were delayed. The hymns in pre hanger of favors in honor of Saturn foreshadow the modern Christmas carols.
+Scents exchanged between friends anticipate the later exchange Christmas gifts. Even the poor and slaves were recipients of these ancient times, suggesting the good will that
+social classes on this occasion. A ruler was appointed and the contents of will that permeated the games held during the Saturnalia, a probable ancestor of the Christmas Prince, or Lord of MiSrule, who presided over the Christmas games in more modern times. All of this to celebrate human nature’s fundamental need for light, warmth, and the prospect of the land's
+rebirth. Indeed, in A Christmas Carol and other of his writings Dickens, in celebrating the death and renewal of the year, acknowledges his own rebirth and the prospect of his own mortality.
+In describing the character of Ebenezer Scrooge, Dickens early on
+visualizes him as the embodiment of winter: "The cold within him
+froze his old features, nipped his pointed nose, shrivelled his cheek,
+stiffened his gait; made his eyes red, his thin lips blue; and spoke out
+shrewdly in his grating voice. A frosty rime was on his head, and on
+his eyebrows, and his wiry chin. He carried his own low temperature always about with him; he iced his office in the dog-days, and
+didn't thaw it one degree at Christmas" (p. 40). This same cold fills
+his dismal office, and the small fires in his room and that of Bob
+Cratchit emit little heat and less light. Scrooge's lodgings are also
+cold and dark: "darkness is cheap, and Scrooge liked it" (p. 49). By
+associating his character with images of winter and darkness, Dickens
+shows Scrooge to be at odds with the Christian sense of joy at the
+birth of Christ. Christmas is mere humbug to him; and like the cold
+and darkness of winter itself, Scrooge must thaw and give way to the
+generous warmth and bright celebrations of the Christmas season
+reflected in the people around him.
+
+Describing Charles Dickens as "the man who invented Christ-
+mas, Byron Rogers writes: "in our dreams of the perfect pub it is
+always the 18305, on the eve of the Railway Boom, with Christmas
+not far away. Christmas was never far away tor him. It is there in his
+first book and in his last, and tor him each year the deadlıne came
+for the Christmas story, something he was to ruefully call clearing
+the Christmas stone out of the road. Look at the cards on your
+mantle piece. Those without robins or shepherds have cc
+ladies in mufts and jolly men in Hessian boots, all these because a
+young man froze Christmas for us in the 183Os. He was able to do
+this because tor reasons of his own he had largely invented it."
+Indeed, the English writer Theodore Watts-LDunton claims to have overheard this comment by a young female street vendor after Dickens's death in 1870: "Dickens dead: then will Father Christmas too?”
+
+While there are other authors other than Dickens who celebrated
+festive season, it was Dickens, above all, who superimposed his secular vision of this sacred holiday upon a welcoming public. Oger states that Dickens was able to do this for reasons of his own"
+Those reasons, central for understanding the immense power of A
+Christmas Carol, were stirred by several forces, including a profound
+humiliation in Dickens s childhood, his subsequent sympathy with
+the oppressed poor, especially children, during the heady capitalist
+decades of the I83Os and 1840S, and the christmas tales of Washington Irving.
+
+In 1824, when Charles was twelve years old, his father, John Dick-
+ens, was arrested for debt and locked away in the Marshalsea Prison.
+The family was devastated and had to sell many of their household
+possessions to make ends meet,; Charles even had to pawn his collec-
+tion of books to contribute some money to the dwindling family
+coffers. But worse was yet to come. Charles, who fostered dreams of
+a genteel and successful future, was taken out of school and sent to
+work in Warren's Blacking Warehouse, a shoe polish factory, where
+he pasted labels on blacking bottles. The factory was dark, filthy, and
+crawling with rats. Charles sense of class and intellectual superiority
+made him feel uncomfortable working with the riverside boys, who
+referred to him as"the little genueman. His family, meanwhile, had moved into the Marshalsea so with his father. Charles desperately wanted to continue with his schooling
+lodgings nearby and managcu
+with shame, anger and
+
+and to see his family
+reunited at home, but lack of money made that impossible. He took
+
+v
+
+ns Iamily twice a day. Filled ilt, he began to have nervous fits that startled his young mpanions at the ractoryJonn Dickens, upon
+
+receiving an inheritance, was released from prison after a period of
+
+three months, but he had Charles continue worki
+wounded the boy even further.
+
+Edmund Wilson points out that "one must realıze that during
+those months |Charles| was in a state of complete despair. For the
+adult in desperate straits, it 1s almost always possible to imagıne, it not
+to contrive, some way out; tor the child, for whom love and freedom
+have inexplicably been taken away, no relief or release can be pro-
+jected. This trauma came at a critical time in his psychological
+development, and it was to inform and shape his entire writing
+career. Writes L.Dickens:
+“No words can express the secret agony of my soul as I sunk into this companionship;
+compared these everyday associates with those of my happier childhood; and felt my early hopes of growing up to be a learned and distinguished man crushed in my breast. The deep
+remembrance of the sense I had it being utterly neglected and hopeless; of the shame I felt in my position; of the misery it was to my young heart to believe that day by day, what I had learned, and thought, and delighted in, and raised my fancy and my emulation up by, was passing away from me, never to be brought back any more; cannot be written. My whole
+nature was so penetrated with the griet and humiliation of such considerations, that even now,
+famous and caressed and happy, I often forget in my dreams that I have a dear wife and children; even that I am a man; and wander desperately back to that time of my life.
+It is interesting to note in this connection that Dickens s sensitivity was not always extended to those around him. A month after his wife, Catherine, gave birth to their son, Francis Jetffrey, Dickens wrote a letter to his friend, 1.J. Thompson, in which he commented: "Kate is all right; and so, they tell me, is the Baby. But I decline (on principle) to look at the latter object." Five months later Dickens and his family traveled to Italy, leaving Francis behind in the care of his maternal grandmother. The loving, self-sacrificing fig of Bob Cratchit may have been Dickens s idealized father, but perhaps there is something of Dickens himself in the person of the elf percentered and cold-hearted Scrooge. The elements of Dickens s childhood nightmare provide the gritty texture of A Christmas Carol: debt, poverty, hunger, isolation, ignorance, cruelty, cold, and the withholding of generosity and love. Through the power of fantasy, Dickens reformulates his childhood humiliation. 
+Although a vulnerable child, like Dickens, Tiny Tim has a loving father in Bob Cratchit. It is the unfeeling Scrooge, then economic paterfamilias, who parcels out a meager salary that keeps
+the Cratchit family in financial bondage. Yet, it is the same Scrooge
+who becomes Tim's "second father at the end of the story, enabling
+the child to be restored to health and the family to a comfortable
+Iiving. Dickens presents an 1dealized and sentimental portrait of the
+Cratchit family, one built upon love and affection, but without the
+good grace and generosity of Scrooge to restore their hope, Tiny
+Tim would be doomed. The emotional ambivalence that Dickens
+telt towards his father (a man to be at once demonized and loved), as
+well as Dickens's lite-long insecurity about his finances, may well
+have influenced the creation of the two Scrooges of his tale.
+Having experienced the humiliation of his father's imprisonment
+for debt, Dickens developed a keen interest in money and a pro-
+found awareness of the consequences of poverty. Despite the success
+of his early books and the money they earned him, Dickens was ais
+traught over the poor sales ot Martin Chuzzlewit at a time when nis
+ramilys expenses were continuing to mount. To make matters
+Worse, in June 1843 Dickens publisher, Chapman and Hall, threat-
+cned to reduce his monthly income by fifty pounds if sales of future
+1nstallments tell below a certain number. He had tour small cnu
+and another on the way, his new residence in Devonshire lerte
+was expensive to maintain, and his relatives were constantly ash
+him tor loans. He began to search for a new source of income
+finally settled upon the idea of writing a Christmas book, Du
+time, angered by his publisher's treatment, he determined to a IKe
+more control over the books production and sales.
+
+And This Although the initial stimulus for writing a new work was in an Cial, the idea for A Christmas Carol arose from Dickens s preoccupation in the early 1840s with issues of poverty, ignorance, and cruelty.
+In October 1843 he delivered a fund-raising speech at the
+Athenæum, a charitable institution for the Manchester working
+class. He declaimed upon the dangers of ignorance and destitution
+and praised the institution for attempting to educate the poor work-
+ers of the city. It was during his three-day stay in Manchester that
+Dickens, 1n the afterglow of his speech at the Athenæum, first con-
+ceived the notion of A Christmas Carol. His concern for the educa-
+tion of the poor had been heightened during the previous month
+when he VIsited the Ragged Schools of Field, which offered a basic
+education for the street urchins in this dismal section of London. He
+recorded his shocking discovery in a letter to Miss Burdett Coutts, a
+wealthy friend and philanthropist: "The school is held in three most
+Wretched rooms on the first floor of a rotten house; every plank, and
+timber, and brick, and lath, and piece of plaster in which, shakes as
+you walk. One room is devoted to the girls: two to the boys. The
+tormer are much better-looking-I cannot say better dressed, for
+there is no such thing as dress among the seventy pupils; certainly
+not the elements of a whole suit of clothes, among them all. I have
+seldom seen, in all the strange and dreadful things I have seen in
+London and elsewhere, anything so shocking as the dire neglect of
+soul and body exhibited in these children. Although he urged Miss
+Coutts to help support the institution, Dickens expressed a quiet
+despair for its future: "My heart so sinks within me when I go into
+these scenes, thatI almost lost the hope of ever seeing them
+changed." Dickens later ordered to write an account of the school
+for the Edinburgh Review, and although he never wrote the essay, the
+details or the misery he saw on his visit lingered in his mind and
+helped formulate the background of his Carol.
+
+In addition to his efforts to aid in the education of the poor,
+Dickens became passionately involved in the issue of child labor in
+1842. In that year appeared the first report of the Commission for
+Inquiring into the Employment and Condition of Children 1in
+Mines and Manufactories. The gruesome details of that report drove
+Dickens to visit Cornwall to see for himself the brutal working con-
+
+
+passed through all the horrors of a fever. I found the Carol accounts
+awaiting me, and they were the cause or the result, What a wonderful
+thing it is, that such a great success should occasion such intolerant-
+
+Dickens s anxiety over his finances, however, must have been alle
+V1at somewhat by the warm reviews the book received. The able anxiety and disappointment Athenaeum proclaimed it "A tale to make the reader laugh and cry open his hands, and open his heart to charloy even towards the uncharitable, -wrought up with a thousand minute and tender touches of the true 'Boz workmanship a dainty dish to set before
+a King. The poet and editor Thomas Hood wrote that "If Christmas, with its ancient and hospitable customs, its SOCial and charitable observances, were in danger of decay, this is the book that would give them a new lease. The very name of the author predisposes one
+to the kindler feelings, and a peep at the run space sets the animal
+spirits capering... Fellow novelist William Makepeace Thackeray
+declared the book "a national benefit, and to every man or woman
+who reads it a personal kindness. The last two people I heard speak
+of it were women; neither knew the other or the author, and both
+said, by way of criticism, 'God bless him! As for Tiny Tim, Thackeray went on, "There is not a reader in England but that little creature will be a bond of union between the author and him; and he will say of Charles LDickens, as the woman just now, 'GOD BLESS
+HIM! What a feeling is this for a writer to be able to inspire, and what a reward to reap!"
+The enthusiastic reviews and the popularity of the Carol, however, brought about a new financial problem for Dickens in the form of literary piracy. In January 1844, Parley's Illuminated Library published "A Christmas Ghost Story re-originated from the original by
+Charles Dickens Esquire and analytically condensed tor this WOT: Dickens was furious and fired off a letter to his solicitor Thomas Mitton: "I have not the least doubt that if these Vagabonds can be stopped, they must be. So let us go to work in such terrible earnerst
+that everything must tumble down before it... Let us be sledgehammer in this, or I shall be beset by hundreds of the same crew, when I come out with a long story Through his lawyer, Dickens filed affidavits against the "gang of Robbers," as he called them, and was confident that his chancery suits would bring about a just settlement. As the legal entanglements increased, however, the pirates declared bankruptcy. Since they had no assets Dickens had to pay all the expenses involved in the various suits he brought against them, a sum that amounted to nearly 700.
+The legal and financial disappointments were very painful to Dickens because this book was especially dear to him. It embodied a
+compelling moral lesson of the magical powers of love and generosity that he wanted to proclaim to the world, a lesson he himself believed in (the did not always practice it), and one which informed many of his subsequent novels. Scrooge s great gt, a second chance in which to live a good life, Dickens offered to all his readers caught up in selfish pursuits that blinded them to the needs of other people.
+In creating A Christmas Carol Dickens gathered up the grim memories of his father's imprisonment, his depressing year in the blacking factory, his outrage over the condition of the poor and uneducated - especially the children working in the mines and industry - and fused these dark visions with the bright prospects of a Christmas celebration. He drew upon his earlier work, Pickwick Papers, to recreate the joyful scenes of dancing, singing, eating, and drinking that flesh out the good feelings of the holiday. Also in that novel Dickens has Mr. Wardle tell the party that it is customary for everyone to while away the time until midnight, when Christmas is ushered in, by playing games on forfeits or telling ghost stories. Mr. Wardle then Relates the tale of a morose, lonely, and mean-spirited sexton named
+Gabriel Grub who, after being visited by a frightening group of goblins who show him the past and future, is transformed into an amiable man "who saw that men like himself, who snarled at the mirth and cheerfulness of others, were the tallest weeds on the fair surface
+of the earth." Unlike Scrooge, whose conversion is seen and come by all around him, Gabriel could not bear the thought Returning to a place where his repentance would be scoffed
+his reformation disbelieved. He vanishes for ten years and returns ragged, contented, rheumatic old man of at and Dicken$ memorable descriptions or the Christmas scene Pickwick Papers and A Christmas Carol owes a great deal to the American writer, Washington Irving (1783-18$9). At a New York hosted by Irving, LDickens amusingly Revealed his devotion to the great American author: "I say, gentlemen, I do not go to bed two nights out of seven without taking Washington Irving under my arm upstairs to bed with me." Irving travelled extensively throughout Europe recording his experiences in notebooks, and he was especially fond of England and its old-world character. He spent a couple of years living in Birmingham, where he wrote some of his most famous stories, including Bracebridge Hall (I822), a blend of fact and fiction that centers on an old manor house, its residents and guests, and their elaborate parties and tales. The largesse of the Enghsh nobility and their ancient traditions held a fascination for the American author. Bracebridge Hall was modelled after Aston Hall, recently leased from Adam Bracebridge by James Watt, the son of
+the inventor and engineer. It was here that Irving enjoyed and later recorded the grand Christmas festivities and English rituals that had largely been abandoned. In the semi-feudal community of Dingley Dell in Pickwick Papers, Dickens's portrait of Mr.Wardle is designed after that of Irving's genial Squire Bracebridge. Irving's descriptions of the Bracebridge Hall Christmas celebrations, with their dancing Sizing games, tales, mistletoe, and holly, clearly helped to snape soon seen in Dingley Dell, Mr. Fezziwig's ball, and at the home o
+Scrooge's nephew, Fred. In both nerves comment upon the short and cold winter days reflects the underlying reason for the conviviality that reaches back to nana and toward to A Christmas Carol: 
+"In the depth when nature has despoiled of every charm, and wrap shroud of sheeted snow, we turn for our graphic Saturday winter, rural. In sources. The dreariness and desolation of the landscape, the short gloomy days and darksome nights, while they circumscribe our
+wanderings, shut in our feelings also from rambling abroad, and make us more keenly disposed of for the pleasures of the social circle. Our thoughts are more concentrated; our friendly sympathies more aroused. We feel more sensibly the charm of each other's society and are brought more closely together by dependence upon each other for enjoyment. Heart calleth unto heart, and we draw our pleasures from the deep wells of loving, kindness, which lie in the quiet recesses of our bosoms; and which, when resorted to, furnish forth the pure
+element of domestic felicity". What could be more Dickensian than these words? 
+In addition to creating a powerful tension between the merriment of Irving's nostalgic account of Christmas with his own dark vision, shaped by his painful childhood memories and by his sympathy with the suffering of children brought on by the Industrial Revolution, Dickens changed the tradition of a twelve-day festival set in a manor house to a one-day celebration set in a city warehouse (Mr. Fezziwig's ball) and in the homes of middle and lower-class families, namely those of Scrooge's nephew, Fred, and Bob Cratchit. As Paul Davis observes, "The Carol melded country customs and Christmas folklore with a Londoner's vision to create a new Christmas story that was particularly attuned to the emergent urbanity of early Victorian England. Whereas Washington Irving discovers the ancient rituals of Christmas to be very much alive 1n the country mansion of Bracebridge all, Dickens relocates Christmas squarely in the heart of London. In place of Irvings idyllic, snow-covered landscape with its quaint church, playful dogs, stagecoaches crowded with Christmas fare and cheerful travellers, Dickens envelops his denizens of the city with a claustrophobic fog and bone-chilling cold, as it London was in the grip of a final ice age: “the fog and darkness thickened so, that people ran about with flaring links, proffering their services to go before horses in carriages, and conduct the erway. The ancient came with a
+tower of a church, whose grout Ola Del Was always peeping slily down at Scrooge out of a
+Gothic window in the wall became invisible, and struck the hours and quarters in the clouds, with tremulous vibrations afterwards, as t ts teeth were chatter in its frozen head up there. The
+cola became intense. In the main street, at the corner of the court, some labourers repairing
+the gas pipes, and had lit a great fire in the brazier, round which a party of bragged men and boys were gathered: warming their hands and winking their eyes before the blaze in rapture. The water-plug being a letter in solitude, it’s overflowing sullenly congealed, and turned to misanthropic were ice. (Pp. 45-40) The cold and misanthropic atmosphere of London's streets, however, does not preclude the warmth of Christmas, albeit, on a less than
+manorial scale. The Ghost of Christmas Past conjures up the memory of Scrooge's old employer, Mr Fezziwig, who converts his warehouse into a festive hall in which to celebrate Christmas: Clearaway. There is nothing they Fezziwig's employees wouldn’t have
+cleared away, with old Fezziıwig looking on. It was done in a minute.
+Every movable was packed off, as if it were dismissed from public lite evermore; the floor was swept and watered, the lamps were trimmed, fuel was heaped upon the fire; and the warehouse was as Snug, and warm, and dry, and bright a ball-room, as you would aes
+to See upon a winters night" (p. 69). The ledger books, the daily
+grind, and the cold give way to music, dance, games, food, another fellowship. Christmas, Dickens seems to be saying, can now be celebrated by anyone; its rituals and joys are no longer the Using province of the upper classes in their country estates, but ca
+round in a London warehouse or in a simple London home, that to the Cratchit family. At a time when the population of London was growing rapidly, its inhabitants could look to A Chrisman Carol tor Imuch needed inspiration during a period of great economic and social stress. Beach Scrooge is one of the great characters of Englısh literature. A complex version of the stage villain to Victorian melodrama, he arouses a curious ambiguity in the reader's attitude towards him. How is it that this cruel, selfish old man has such an appeal to one's sympathy.
+Is it simply that he is transformed into a generous man at the story’s end? Dickens manages the daunting task of presenting his hero in a manner that allows the reader to his
+villain and relishes his presence at the same time. He accomplishes this through the multi-nuanced voice of the narrator. As Michael Slater has observed, A Christmas Carol is first and foremost a triumph or fine. "
+The narrator opens his tale with the rather enigmatic sentence:
+"Marley was dead: to begin with." 
+Shortly thereafter he begins to reinforce his opening comment: 
+"The mention of Marley's funeral brings me back to the point I started from. There is no doubt that Marley was dead. This must distinctly be understood, or nothing
+wonderful can come of the story I am going to relate (p. 39). Early on, then, the narrator
+makes it clear that this knowledge is prerequisite to a wondrous outcome of some sort. Like Mr. Wardle in Pick Papers, the narrator comes aCross as a genial, avuncular person
+eager to entertain his audience with a Christmas ghost story. 
+He goes so far as to press his own ghostly presence on the reader. 
+Upon being visited by the Ghost of Christmas Past, who draws aside Scrooge's bed curtans, Scrooge "tound himselt face to face with the unearthly visitor who drew them: as close to it as I am now to you, and I am standing in the spirit at your elbow” (p. 61). 
+After engaging the reader with his personal charm and colloquial tone, the narrator begins developing the character of Scrooge:
+"Oh! but he was a tight-fisted hand at the grindstone, Scrooge! a squeezing, wrenching,
+grasping, scraping, clutching, covetous old sinner! Hard and sharp
+as tint, from which no steel had ever struck out generous fire; secret,
+and self-contained, and solitary as an oyster (p. 40). There is a narrative joy in the outpouring of exclamation and hyperbole in this and other passages describing Scrooge. Even the simile "solitary as an oyster" lightens the tone and makes clear that yes, here is a villain, but one the reader is going to enjoy. Scrooge is shown to be so predictably miserly as to be comic. 
+As Henri Bergson notes, in his essay Laughter, "humour arises when a person acts with consistent machine-like predictability instead of with an uncalculated human suppleness. Mention Chrstnias to Scrooge and the predicted response will be "Bah, humbug it's only later in the story that the reader is allowed to see the more human side of Scrooge that is
+elicited by the three Christmas spirits. Scrooge's own dialogue frequently modulates the tone of the narrative. When he dismisses his nephew Fred with a brief condemnation of Christmas, he concludes with a spirited salvo of invective: "If I could work my will. every idiot who goes about with 'Merry Christmas, on his lips, should be boiled with his own
+pudding, and buried with a stake of holly through his heart. He should!" (p. 42) 
+Articulate and grimly humorous, Scrooge maintains an equally imaginative and buoyant tone when he first meets Marley's ghost and explains why he doubts his senses: "Because... a little thing affects them. A sight disorder ot the stomach makes them cheats. You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato. There s more of gravy than of grave about you, whatever you are!" (p. 52) At the end of Stave Three, however, the narrator adopts the stern
+tone of Dickens himself, as the Ghost of Christmas Present opens his
+robe and reveals the two children huddled beneath it. He addresses
+both Scrooge and al humanity in his speech: "They were a boy and
+a gor. Yellow, meagre, ragged, scowling, wolfish; but prostrate, too, in
+their humility. Where graceful youth should have filled their features
+out, and touched them with its freshest tints, a stale and shrivelled
+hand, like that of age, had pinched, and twisted them, and pulled
+them into shreds. The Ghost then issues his dreadful warning
+hey are Man's.. This boy is Ignorance. This girl is Want.
+Deware them both, and all of their degrees, but most of all beware tua
+boy, for on his brow I see that written which is Doom, LLC would be erased (Pp. 99-101). The ghastly apparitions n
+onDer passage appear to arise from the depths of Dickens so
+unhappy childhood and his intimate knowledge of
+The Schools and the government reports on the abuse of children in factories and mines.
+Doubleday
+In addition to his skillful modulation of the narrative tone, Dickens shapes the character of Scrooge by gradually unfolding details of his inner life. In Stave One he appears as a two-dimensional figure, a cold-hearted, selfish old man isolated from everyone around him.
+The appearance of Jacob Marley, however, initiates the transformation of Scrooge's character as he witnesses the horrid results ot a lite dedicated to money in the person of Marley, his old partner and alter-ego. The shock and fear that this visit instill in him lay the
+groundwork for the emotional transformation that follows upon his journey into the past.
+The Ghost of Christmas Past serves as the catalyst that awakens Scrooge's childhood memories, conjuring up. Scenes that he had long suppressed through his single-minded devotion to money. As Edgar Jonnson points out, these Scenes further build the foundation for Scrooge’s final redemption:"There have been readers who objected
+to Scrooge s conversion as too sudden and radical to be psychologically convincing. But this is to mistake a semi-serious fantasy tor a piece of prosaic realism. Even so, the emotions in Scrooge to which the Ghosts appeal are no unsound means to the intended end: the
+awakened memories of a past when he had known gentler and warmer ties than any of his later years, the realization of his exclusion from all kindness and affection in others now, the fears of the future when he may be lonelier and more unloved still”. Scrooge's memory of his early education reveals him to be a lonely child whose only companions appear to be characters from his favourite books (Dickens s childhood favourites, too), such as The Arabian Nights and Robinson Crusoe. When Scrooge sees this solitary boy reading near a feeble fire, he sits down near him and weeps to see his poor forgotten sold as he had used to be (p. ó5). The next scene shows him alone again after all the other school children have gone
+home to enjoy the Christmas holidays. His young sister, Fan, however, comes to take him
+home, declaring, Home, tor good and all. Home forever and ever. Father is so much kinder than he used to be, that home's ike Heaven! (p. 67) The following scene features
+Scrooge's former employer, Mr. Fezziwig, and his wondrous Christmas party. As Scrooge watches the dancing and singing and self. He corroborated everything, remembered everything, everything, and underwent the strangest agitation (p. 71). The memory Scrooge must face Is that ot Belle, the woman whos games, "|h]is heart and soul Were in nc scene, and with his former love, he discarded in favour or ldncldl ga. intent on showing how Scrooge missed an opportunity a happily married man Dickens presents a scene that Cicatiy Ouslae Scrooges memory
+The time is that of Christmas married and has several children. As her husband returns nome laden with Christmas presents, the children set upon him with glee and the domestic scene vibrates with good telling. As he views the family that might have been his, Scrooge hears Belle's husband say that he looked intoScrooge's office earlier that day: "His partner lies upon the point of
+death, I hear; and there he sat alone. Quite alone in the world, I do
+believe (p. 75). The pain of loss overcomes Scrooge and he attempts
+to extinguish the memories that the Ghost has awakened. He presses
+the extinguisher-cap down upon the head of the Ghost, darkens the
+
+scene, but fails to hide the light, which streams from under it.
+All of these details of Scrooge's past rescue him from being merely
+the stage villain at the opening pages and show him to possess an
+emotional depth, a regret for lost opportunities, and a loneliness that
+stems from his childhood. When Fan comes to take him home for Christmas, her comment that "Father is so much kinder than he used to be suggests that Scrooge s home life certainly was not the heaven that his sister now promises him. And so, the boy Scrooge
+appears as a lonely child whose only friends are characters from The
+Arabian Nights and Robinson Crusoe. Like Crusoe, Scrooge must cre
+ate out of his isolation a small world for himself, his only tool being
+nis imagination. In a sense, one might see Scrooge as the author of his own destiny. Out of the vivid memories of his past-a time great sadness contrasted with moments of nostalgic happiness, Scrooge recreates himself in the present. In watching over Cratchit family gather for their Christmas meal, Scrooge s tormene
+to feel his exclusion from warm familial ties. Fan is long dead, his only lifeline is her son, Fred, whose gracious Christmas uiv
+tions Scrooge has loudly rejected season after season. As t
+present intermingle, Scrooge's final vision, that of his OWn u
+Shapes the last chapter of his emotional life. But as TennysOn wrote,
+"Men may rise on stepping-stones of their dead selves to higher things.
+A Christnnas Carol is built upon numerous contrasts: rich and poor, warmth and cold, plenty and hunger, family and loneliness,
+generosity and miserliness, affection and cruelty, dream and reality,
+freedom and compulsion, past and present, and present and future.
+Most ot these opposing forces are recapitulated within the character
+of Scrooge himself. The cold-hearted, compulsive, lonely, miserly
+man, who eats his abstemious meal in the shadows, emerges from his
+dreams, memories, and fears to become
+warm, caring fatherly man. The texture of the story, rich with con-
+raising magery, prepares the reader tor Scrooge's conversion well in
+advance ot the concluding chapter. While hardly a realistic tale
+indeed, it resembles a fable with its cautionary note about human
+behavior-A Christmas Carol renders a powerful psychological
+account ot the dangers of intrOspection and social withdrawal. generous, fun-loving, the detailed memories
+
+The three stages of Scrooge's conversion-
+of a lonely childhood, an awakened vision of the suffering and joys
+of those presently around him, and his fear of future loneliness and
+an awareness of his own mortality -combine to change him into.
+decent man, one who goes on tO earn from those who knew him
+this crowning accolade: "it was always said of him, that he knew how
+to keep Christmas well, it any man alive possessed the knowledge
+(p. 125). The reformation of Scrooge's character highlights one of
+the persistent themes in Dickens s novels. As George Orwell
+observes, "There 1s no clear sign that |Dickens| wants the existing
+order to be overthrown, or believes that it would make very much
+difference if it were overthrown, For in reality his target is not so
+much society as human nature." Orwell goes on to argue that Dick-
+ens was not a politician but a moralist: "He has no constructive sug-
+gestions, not even a clear grasp of the nature of the society he is
+attacking, only an emotional perception that something 1s wrong.
+All he can finally say is, Behave decently, which, as I suggested earli-
+er, is not necessarily so shallow as it seems.
+
+Dickens the moralist can be heard most clearly through the voices
+of Marley and the Ghost of Christmas Present. When Scrooge
+
+attempts to compliment Marley by declaring nim "a good man of
+kna was my business," the Ghost cries out, Duncness. The common welfare Was my business, charity, mercy, orbearance, and benevolence, were, all, my Duchess. In the dealings of
+trade were but a drop of water in the Comprehensive ocean of my
+business! (P. 56) Later, when Scrooge and the Ghost of Chris
+Present watch the Cratchit family at cr meal, the Ghost reminds
+Scrooge of his earlier Malthusian remark that by dying the poor will
+
+My help to reduce the surplus population: Man, said the Ghost, 'if man
+you be in heart, not adamant, forbear that Wicked can't until you
+have discovered What the surplus 1s, and Where it is. Will ou
+decide what men shall live, what men shall differ lt may be, that in the
+sight of Heaven, you are more worthless and less tit to live than mil-
+lions like this poor man's child. Oh God! to hear the Insect on the
+leat pronouncing on the too much lite among his hungry brothers
+in the dust! (p. 89)
+
+It may be that most people know A Christmas Carol today not trom
+Dickens's text but rather from one or more ot the many television
+and motion picture productions based upon his story. Innovative
+adaptations have converted Dickens's Scrooge into a rich array of
+characters and animated figures. Among the many curious Serooges
+are Mr. Magoo, Fred Flintstone, Beavis, and Scrooge McDuck.
+There have also been temale Scrooges, such as Susan LucCi(EbTe,
+1995) and Ccaly lyson (Ms. Scrooge, 1997). Among the numerous
+classic films only a tew stand out as having captured the essena
+Dickens: Scrooge (1935), with Seymour Hicks; A Christmas Carol
+(1938), with Reginald Owen; Scrooge (1951), with Alastair Sim;
+rooge (1970), with Albert Finney; and A Christmas Carol 9o4
+with George C. Scott.
+
+vany critics have singled out the 1951 film with Alastair
+is the best of the motion picture adaptations. This version,
+Fred Guida points out, "like none before it, seeks to explain
+CE Darooge by focusing upon his past. "In dealing with dcrO
+past the film is ultimately, and quite simply, belong la
+Benez to t the letter-and, even more so, to the implications-of Dickens's original text. A few scenes not in Dickens's text are added to Hash out even further the sad consequences of Scrooge's actions in the past. The Ghost of Christmas Past, for example, carries Scrooge to his sister's deathbed, where he sees himself reject Fans husband and baby
+and then angrily leaves the room. Thinking her brother is still there,
+Fan says, Promise me you'll take care of my boy" Earlier in the
+film, during the visit to Scrooge's boyhood school, the Ghost of
+Christmas Past tells Scrooge that "your mother died in giving you
+lite, for which your father never forgave you, as if you were to
+blame.n the text Dickens merely has Fan report to her brother that
+father is so much kinder than he used to be!"The film's psychological interpretation of Scrooge, however, does not seriously violate the
+Spirit of the original story but expands upon an ambiguous line spoken by an in order to help one understand the root causes of Scrooge's complex misery.
+Although Dickens took pains to control every aspect of A Christmas Carol, from the details of the book's appearance and production to lawsuits against publishers who pirated his story, the world of the Victorian Scrooge has been appropriated by subsequent generations and reshaped into countless plays, motion pictures, television productions, operas, animated cartoons, and musicals. The text itself has been edited for children, 1llustrated by numerous different artists, and used as a springboard into fictional "prequels" and sequels. Literary
+purists might find many of these adaptations to be grotesque distortions of Dickens's text, but Paul Davis notes the inevitable consequences that follow upon the creation of a great work of literature: Edward Wagenknecht characterized as a 'glaring example of critical irresponsibility
+Edmund Wilson's speculation that after Christmas Scrooge reverts to his old self. "We cannot follow Scrooge "beyond the frame of the story, Wagenknecht asserted, for the simple reason
+that beyond the frame of the story he does not exist. The history of the carol since 1843 would suggest otherwise, for Scrooge exists in the Anglo-American consciousness independent of his Dickensian origin. Dickens may have framed our thoughts and established the tab broad outlines of the story, but the Carol is rewritten each Christmas, and Scrooge, an altered spirit, appears anew with each retelling."
+
+            </p>
+    
+        </body>
+        <back>
+            <!-- here is a sample place for contextual information: -->
+            <div>
+            </div>
+        </back>
+    </text>
+</TEI>
+
+                
