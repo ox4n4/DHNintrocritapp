@@ -6,17 +6,17 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><!-- put title here --></title>
+                <title>Introduction to the Edition</title>
                 <author>
-                    <persName><!-- author's name here --></persName>
+                    <persName>Richard Kelly</persName>
                 </author>
             </titleStmt>
             <publicationStmt>
-                <ab><!-- copyright or copyleft information here --></ab>
+                <ab>Broadview Press LTD</ab>
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <!-- source information here; better yet, use a <biblStruct> instead -->
+                   A Christmas Carol
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -37,7 +37,7 @@ of spirit. His vision of this feast day, however, is a secularization of
 one of the most sacred days in the Christian calendar and has its
 roots in antiquity. During the Middle Ages Christianity appropriated
 many of the pagan rituals as part of its celebration of the birth of
-Christ. Both the ancient Roman ritual of Saturnalia -in honor of
+Christ. Both the ancient Roman ritual of <seg type="ritual"></seg>Saturnalia -in honor of
 the god of agriculture - and the Germanic festival of Yule - in
 honor of the god Thor - enriched the customs and traditions of the
 Christian feast days. Christmas in medieval times was a twelve-day
