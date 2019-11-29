@@ -44,7 +44,7 @@ Christian feast days. Christmas in medieval times was a twelve-day
 festival that took place in the household of a local lord. The burning
 to the Yule log, playing traditional games, and enjoying quantities of
 food and drink were all part of these celebratory days. By the middle
-                of the seventeenth century, however, the pageantries of Christmas-
+of the seventeenth century, however, the pageantries of Christmas-
 tide were quelled under the influence of the Puritans. Until the
 beginning of the nineteenth century the celebration of Christmas
 seems to have been little observed. Writing in 1837, Thomas Hervey
@@ -72,7 +72,7 @@ solstice has long been recognized as a period of great rejoicing. As
 the daylight hours gradually diminished after the summer solstice,
 leading to the longest night of the year in late December, people
 began to celebrate the expected return to longer days on or about
-December 22. The Roman daturnalla, Which occurred at this time,
+December 22. The Roman <seg type="celebrations"></seg> daturnalla, Which occurred at this time,
 was a season of joyful celebration. Friends teased with one another.
 wars were not declared, and executions were delayed. The hymns in pre hanger of favors in honor of Saturn foreshadow the modern Christmas carols.
 Scents exchanged between friends anticipate the later exchange Christmas gifts. Even the poor and slaves were recipients of these ancient times, suggesting the good will that
@@ -114,7 +114,7 @@ Those reasons, central for understanding the immense power of A
 Christmas Carol, were stirred by several forces, including a profound
 humiliation in Dickens s childhood, his subsequent sympathy with
 the oppressed poor, especially children, during the heady capitalist
-decades of the I83Os and 1840S, and the christmas tales of Washington Irving.
+decades of the 1830s and 1840s<ref target="#laizzez faire era"></ref>, and the Christmas tales of Washington Irving.
 
 In 1824, when Charles was twelve years old, his father, John Dick-
 ens, was arrested for debt and locked away in the Marshalsea Prison.
@@ -404,7 +404,10 @@ that beyond the frame of the story he does not exist. The history of the carol s
         </body>
         <back>
             <!-- here is a sample place for contextual information: -->
-            <div>
+            <div type="notes">
+                <note xml:id = "#laizzez faire era"></ref> Laizzez faire era: decades in the mid nineteenth century with extremely lax economic/safety regulations. </note>
+                <note xml:id =
+                <note xml:id = 
             </div>
         </back>
     </text>
